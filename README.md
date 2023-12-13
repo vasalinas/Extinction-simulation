@@ -1,7 +1,5 @@
 # Impact of biodiversity loss on the structure and stability of a marine Antarctic food web
-
 This research was submitted to the Special Issue "Marine Ecosystem Functioning and Food Webs under Climate Change" of the Journal Diversity (MDPI).
 
-Abstract
-
+# Abstract
 The consequences of climate change and anthropogenic stressors, such as habitat loss and overexploitation, are threatening the subsistence of species and communities across the planet. Therefore, it is crucial to analyze the impact of environmental perturbations on the diversity, structure and function of ecosystems. In this work, in silico simulations of biodiversity loss were carried out on the marine food web of Caleta Potter (25 de Mayo Island, Antarctica) where global warming has caused critical changes in the abundance and distribution of benthic and pelagic communities during the last 30 years. We performed species removal considering their degree and trophic level and including four different thresholds on the occurrence of secondary extinctions. We examined the impact of extinctions on connectance, modularity and stability of the food web. We found different responses of these properties depending on the extinction criteria used, e.g., large increase in modularity and rapid decrease in stability when most-connected and relatively high-trophic level species were removed. Additionally, we studied the complexity-stability relationship of the food web founding two regimes: 1) high sensitivity to small perturbations suggesting that Potter Cove would be locally unstable, and 2) high persistence to long-range perturbations suggesting global stability of this ecosystem.
